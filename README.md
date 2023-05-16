@@ -1,6 +1,6 @@
 # Enhanced select for Reuters
 
-# Getting Started with Create React App
+# Getting Started
 
 This project was bootstrapped with [clone](https://github.com/dpsbhusalnp/selectbox-reuters).
 
