@@ -1,4 +1,4 @@
-# Reuters
+# Enhanced select for Reuters
 
 # Getting Started with Create React App
 
